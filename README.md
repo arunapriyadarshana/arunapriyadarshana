@@ -1,5 +1,7 @@
 ### Hi there 👋
-There are changes
+
+There were some changes
+
 <!--
 **arunapriyadarshana/arunapriyadarshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

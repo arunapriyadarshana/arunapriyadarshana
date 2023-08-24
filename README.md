@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-But I like to do more changes!
+But we don't need changes!
+Let's do some changes!

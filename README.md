@@ -23,11 +23,11 @@
   </a>
 </div>
 
+<div align="center">
 
+<img  alt="GitHub Snake" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/output/github-contribution-grid-snake.svg" />
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/output/github-contribution-grid-snake.svg" />
-
-
+</div>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,spring,tailwind,materialui,html,css" /><br>

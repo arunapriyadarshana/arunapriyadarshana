@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunapriyadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="arunapriyadarshana" /> </p>
 
-<p align="left">- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa</p>
+<p align="left">- 🌱 &nbsp;I’m a third-year undergraduate studying for a BSc.(Hons.) in Information Technology at the University of Moratuwa.</p>
 
 <div align="left"> 
   <a href="mailto:arunapbandara45@gmail.com">

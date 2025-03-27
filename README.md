@@ -9,7 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunapriyadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="arunapriyadarshana" /> </p>
 
-<p align="left">- 🌱 &nbsp;I’m a third-year undergraduate studying for a BSc.(Hons.) in Information Technology at the University of Moratuwa.</p>
+
+```javascript
+const aruna = {
+  name: "Aruna Priyadarshana Bandara",
+  education: "3rd year IT undergraduate at University of Moratuwa",
+  work: "Software Engineer Intern at WSO2",
+  interests: ["Full-stack development", "API design"],
+  hobbies: ["Mobile photography", "Playing mobile games"]
+}
+```
 
 <div align="left"> 
   <a href="mailto:arunapbandara45@gmail.com">

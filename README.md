@@ -2,13 +2,20 @@
 </div>
 
 ###
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aruna+Priyadarshana!;" />
-</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<div>
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aruna+Priyadarshana!;" />
+
+<img width="250" align="right" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/refs/heads/main/dev-working_rounded.gif" alt="arunapriyadarshana" />
+
+</div>
+
+     
+<h3 align="left">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunapriyadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="arunapriyadarshana" /> </p>
 
+---
 
 ```javascript
 const aruna = {

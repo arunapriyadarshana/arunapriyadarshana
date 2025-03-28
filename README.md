@@ -60,6 +60,16 @@ const aruna = {
   <img src="https://github-readme-stats.vercel.app/api?username=arunapriyadarshana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunapriyadarshana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=arunapriyadarshana&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+ <details align="center">
+  <summary>More stats</summary>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunapriyadarshana&theme=moonlight)
+  
   <img src="https://github-profile-trophy.vercel.app?username=arunapriyadarshana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+</details>
+ 
 </div>
 
